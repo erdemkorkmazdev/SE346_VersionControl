@@ -30,4 +30,5 @@ int main()
 	printf("Hüseyin Emre Kaya,18243610035,ISE\n");
 	printf("Nuri Can Ozer,18243610027,ISE\n");
 	printf("Abdullah Erol, 18243510001, CMPE\n");
+	printf("Erdem Korkmaz, 17243510019, CMPE\n");
 }
